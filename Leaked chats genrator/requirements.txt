@@ -1,0 +1,10 @@
+streamlit
+pyngrok
+langchain
+langchain-groq
+langchain-openai
+requests
+feedparser
+yake
+lxml[html_clean]
+beautifulsoup4
